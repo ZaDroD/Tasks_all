@@ -1,0 +1,15 @@
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.csproj.AssemblyReference.cache
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.AssemblyInfoInputs.cache
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.AssemblyInfo.cs
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.csproj.CoreCompileInputs.cache
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\bin\Debug\net6.0\Task07.exe
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\bin\Debug\net6.0\Task07.deps.json
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\bin\Debug\net6.0\Task07.runtimeconfig.json
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\bin\Debug\net6.0\Task07.dll
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\bin\Debug\net6.0\ref\Task07.dll
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\bin\Debug\net6.0\Task07.pdb
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.dll
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\ref\Task07.dll
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.pdb
+C:\Users\ZaroD\Desktop\Tasks(vse)\Task07\obj\Debug\net6.0\Task07.genruntimeconfig.cache
